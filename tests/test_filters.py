@@ -1259,7 +1259,7 @@ def test_patients_with_death_recorded_in_cpns():
             Patient(CPNS=[CPNS(DateOfDeath="2021-01-01")]),
             # Patient should be included
             Patient(CPNS=[CPNS(DateOfDeath="2020-02-01")]),
-            # Patient has multple entries but with the same date of death so
+            # Patient has multiple entries but with the same date of death so
             # should be handled correctly
             Patient(
                 CPNS=[CPNS(DateOfDeath="2020-03-01"), CPNS(DateOfDeath="2020-03-01")]
