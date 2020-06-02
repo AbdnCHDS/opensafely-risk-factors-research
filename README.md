@@ -24,4 +24,4 @@ Read more at [OpenSAFELY.org](https://opensafely.org).
 All the software is Open Source; however, it's recently come to our
 attention the code may include some commercial IP, so we have
 temporarily removed it from Github until we address that.  We expect
-the code to be published again in during the week commencing 18 May.
+the code to be published again in June
